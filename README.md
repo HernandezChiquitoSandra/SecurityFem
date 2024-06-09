@@ -53,14 +53,15 @@ En cada sprint se contemplan los siguientes tableros: Entrada, análisis, constr
 
 | Sprint | Tablero Trello | 
 |----|----------|
-| 1  ||
-| 2 ||
+| 1  |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/cfefe86b-be3c-49bd-bbb4-2070cc43bea2)|
+| 2 |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/20d48c73-fb41-4b76-8aa5-8516002c6533)|
 | 3 ||
 
 
 
 ## Circuito diseñado para el proyecto completo 
 
+![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/63695d0c-98ac-4840-82ef-a95e2a308be2)
 
 
 ## Resultados, screenshot de cada uno de los resultados del proyecto, con una descripción sintetizada
