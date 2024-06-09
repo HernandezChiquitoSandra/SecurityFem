@@ -35,10 +35,10 @@ Ayudar a las personas con un dispositivo portable el cual les aporte seguridad e
 ## Historias de usuario epicas
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1 | Como  usuario que necesita mantener controlado el paradero, quiero poder rastrear la ubicación desde mi dispositivo móvil para poder ubicarla rápidamente en caso de emergencia.|Michel|
-|  2 |Como un usuario preocupado por la seguridad quiero recibir notificaciones en mi dispositivo móvil cuando se active la alarma en mi llavero para poder tomar medidas rápidas y apropiadas.|Michel|
-|  3 |Como un usuario que necesita mantener un registro detallado de eventos relacionados con mi llavero quiero tener un registro  de  los eventos y acciones relacionadas con mi llavero inteligente para poder revisarlos y analizarlos en cualquier momento|Valeria|
-|  4 |como usuario quiero poder activar y desactivar el sensor de movimiento en situaciónes de emergencia|Valeria|
+|  1 | Como  usuario que necesita mantener controlado el paradero, quiero poder rastrear la ubicación desde mi dispositivo móvil para poder ubicarla rápidamente en caso de emergencia.| Alta | 1-3 semanas|Michel
+|  2 |Como un usuario preocupado por la seguridad quiero recibir notificaciones en mi dispositivo móvil cuando se active la alarma en mi llavero para poder tomar medidas rápidas y apropiadas.| Alta | 1-3 semanas
+|  3 |Como un usuario que necesita mantener un registro detallado de eventos relacionados con mi llavero quiero tener un registro  de  los eventos y acciones relacionadas con mi llavero inteligente para poder revisarlos y analizarlos en cualquier momento| Alta | 1-3 semanas |Valeria
+|  4 |como usuario quiero poder activar y desactivar el sensor de movimiento en situaciónes de emergencia| Alta |1-3 semanas|Valeria
 
 
 ## Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proyecto
