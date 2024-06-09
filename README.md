@@ -35,18 +35,19 @@ Ayudar a las personas con un dispositivo portable el cual les aporte seguridad e
 ## Historias de usuario epicas
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1 | Como  usuario que necesita mantener controlado el paradero, quiero poder rastrear la ubicación desde mi dispositivo móvil para poder ubicarla rápidamente en caso de emergencia.| Alta | 1-3 semanas|Michel
-|  2 |Como un usuario preocupado por la seguridad quiero recibir notificaciones en mi dispositivo móvil cuando se active la alarma en mi llavero para poder tomar medidas rápidas y apropiadas.| Alta | 1-3 semanas
-|  3 |Como un usuario que necesita mantener un registro detallado de eventos relacionados con mi llavero quiero tener un registro  de  los eventos y acciones relacionadas con mi llavero inteligente para poder revisarlos y analizarlos en cualquier momento| Alta | 1-3 semanas |Valeria
-|  4 |como usuario quiero poder activar y desactivar el sensor de movimiento en situaciónes de emergencia| Alta |1-3 semanas|Valeria
+|  1 | Como  usuario que necesita mantener controlado el paradero, quiero poder rastrear la ubicación desde mi dispositivo móvil para poder ubicarla rápidamente en caso de emergencia.| Alta | 1-3 semanas|mediante el dashboard y la notificación de su paradero|Michel
+|  2 |Como un usuario preocupado por la seguridad quiero recibir notificaciones en mi dispositivo móvil cuando se active la alarma en mi llavero para poder tomar medidas rápidas y apropiadas.| Alta | 1-3 semanas| Se deberá activar una alarma cuando el usuario presiona el botón de peligro y recibir notificación| Michel
+|  3 |Como un usuario que necesita mantener un registro detallado de eventos relacionados con mi llavero quiero tener un registro  de  los eventos y acciones relacionadas con mi llavero inteligente para poder revisarlos y analizarlos en cualquier momento| Alta | 1-3 semanas|Se muestra en la base de datos y dashboard los eventos de los sensores |Valeria
+|  4 |como usuario quiero poder activar y desactivar el sensor de movimiento en situaciónes de emergencia| Alta |1-3 semanas| solo cuando se preciona el boton se enciende y responde el sensor|Valeria
 
 
 ## Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proyecto
-![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/594fe3df-92ae-40f5-b152-c9a1a9c9af0c)
+![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/c3583f2f-afb4-43aa-a8fd-d61779214e6d)
+
 
 
 ## Arquitectura del proyecto
-se solicita que contenga al menos los siguientes elementos: sensores, actuadores, controladores, plataforma de base de datos, protocolo de comunicación, gestión de energía, dispositivos receptores y/o transmisores, puede contener además elementos de nube, redes, seguridad, dispositivos pasivos, direccionalidad de comunicación
+se solicita que contenga al menos los siguientes elementos: sensores, actuadores, controladores, plataforma de base de datos, protocolo de comunicación, gestión de energía, dispositivos receptores y/o transmisores, puede contener además elementos de nube, redes, seguridad, dispositivos pasivos, direccionalidad de comunicación.
 
 ## Captura de pantalla del tablero kanban para cada uno de los sprints del proyecto
 En cada sprint se contemplan los siguientes tableros: Entrada, análisis, construcción, revisión y terminado.
@@ -60,11 +61,16 @@ En cada sprint se contemplan los siguientes tableros: Entrada, análisis, constr
 
 
 ## Circuito diseñado para el proyecto completo 
-![image](https://github.com/ItzelFuentes/SmartCar_Control/assets/106613946/fb2796a6-654e-4c32-82cd-eae0b239953c)
+
 
 
 ## Resultados, screenshot de cada uno de los resultados del proyecto, con una descripción sintetizada
 En los esta primera entrega se realizo un circuito el cual es capaz de detectar el movimiento y encender el buzzer integrado cada que lo detecta, de igual manera, se hace el envio de whatsApp.
 
+![Imagen de WhatsApp 2024-06-08 a las 21 36 12_7ee26f1d](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/16a41716-6aed-4845-90b9-bfc0770cf8f7)
+
+![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/2112e9c8-32e1-4ee2-8d41-086cf0d05fd3)
+
+![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/c1e0d249-c97c-4745-ba35-a46c36653338)
 
 
