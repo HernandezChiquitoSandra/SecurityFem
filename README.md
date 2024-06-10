@@ -14,6 +14,14 @@ Ayudar a las personas con un dispositivo portable el cual les aporte seguridad e
 | 2  |Node-red  |3.0      |Servicio|
 |3|Sqlite|3.46.0|SGBD|
 
+##Epicas
+* El llavero proporcionará monitoreo para la seguridad del usuario.
+* Activación manual y remota de la alarma
+* Geolocalización en tiempo real
+* Gestión de Alertas y Notificaciones
+* Registro de eventos del llavero en base de datos
+* Comodidad y facilidad de uso
+
 ## Hardware empleado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
