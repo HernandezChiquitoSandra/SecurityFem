@@ -13,19 +13,14 @@ Ayudar a las personas con un dispositivo portable el cual les aporte seguridad e
 | 1  |Arduino   |2.0.1    |   IDE|
 | 2  |Node-red  |3.0      |Servicio|
 |3|Sqlite|3.46.0|SGBD|
+|4|Flutter|	3.16.6|software|
 
-## Epicas
-* El llavero proporcionará monitoreo para la seguridad del usuario.
-* Activación manual y remota de la alarma
-* Geolocalización en tiempo real
-* Gestión de Alertas y Notificaciones
-* Registro de eventos del llavero en base de datos
-* Comodidad y facilidad de uso
 
 ## Hardware empleado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|   1|Pantalla táctil 2.4'' | Resolución de 240*320, color de 18 bits. Controlador spdf5408 con memoria RAM de vídeo integrada. |<img src="https://github.com/ItzelFuentes/SmartCar_Control/assets/108686186/9692adcf-d0c8-4b60-a0ec-93edf5e8dc08" width="400">|1|$200|
+|   1|Pantalla smartv| Pantalla del aula para presentar detalles del flujo de la aplicacion |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/167261f0-b9eb-4a3c-a2bf-b22c437b3dc4)
+|||
 |   2| Cables de Puente de protoboard de Placa de Prueba| Es un elemento que permite cerrar el circuito eléctrico del que forma parte dos conexiones|<img src="https://user-images.githubusercontent.com/106613946/233218856-3a7458d8-7c8f-49eb-8914-3ab456faff30.png" width="400">|30|$60|
 |   3|Buzzer| Es un dispositivo que tiene la capacidad de generar una señal de audio al ser alimentado|<img src="https://user-images.githubusercontent.com/106613946/233209389-17df52bd-0712-4ba0-9873-b426f1123213.png" width="400">|1|$27| 
 |   4|Cable USB para Esp32| Cable USB que permite la alimentación y comunicación compatible con Esp32.|<img src="https://github.com/ItzelFuentes/SmartCar_Control/assets/108686186/36ffa2b7-0adc-48ec-9e8c-b3cbd7d995dd" width="400">|1|$25|
@@ -39,7 +34,12 @@ Ayudar a las personas con un dispositivo portable el cual les aporte seguridad e
 |   14| Módulo Relevadores Relay 4 Canales 5v | Puede controlar varios dispositivos y otros equipos con gran corriente: ideal para proyectos mecatrónicos. Este relevador soporta hasta 250 VAC o 30 VDC a 10 A.|![image](https://m.media-amazon.com/images/I/61dFbJu-y7L._SX522_.jpg)|1|$0|
 -->
 
-## Historias de usuario epicas
+## Epicas
+* Hacer funcionalidades de cada uno de los sensores
+* Usar flutter para el monitereo de evntos de los sensores
+* Mostrar el monitoreo del dispositivo en pantalla smartTv
+
+## Historias de usuario 
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |  1 | Como  usuario que necesita mantener controlado el paradero, quiero poder rastrear la ubicación desde mi dispositivo móvil para poder ubicarla rápidamente en caso de emergencia.| Alta | 1-3 semanas|mediante el dashboard y la notificación de su paradero|Michel
@@ -59,12 +59,13 @@ se solicita que contenga al menos los siguientes elementos: sensores, actuadores
 ## Captura de pantalla del tablero kanban para cada uno de los sprints del proyecto
 En cada sprint se contemplan los siguientes tableros: Entrada, análisis, construcción, revisión y terminado.
 
+<!--
 | Sprint | Tablero Trello | 
 |----|----------|
 | 1  |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/cfefe86b-be3c-49bd-bbb4-2070cc43bea2)|
 | 2 |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/20d48c73-fb41-4b76-8aa5-8516002c6533)|
 | 3 ||
-
+-->
 
 
 ## Circuito diseñado para el proyecto completo 
