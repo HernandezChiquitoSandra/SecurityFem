@@ -4,7 +4,7 @@
 - Sandra Michel Hernández Chiquito
 
 ## Visión
-Ayudar a las personas con un dispositivo portable el cual les aporte seguridad en cualquier momento, proporcionando el monitoreo constante de la ubicación y eventos de riesgo, de manera innovadora gracias a que se enviaran las alertas desde n dispositivo tan pequeño a contactos de emergencia.
+Nuestra visión es empoderar a las personas, especialmente a mujeres y personas en situaciones de vulnerabilidad, con un dispositivo portable que ofrezca seguridad en todo momento. Este innovador dispositivo proporcionará un monitoreo constante de la ubicación y detectará eventos de riesgo, enviando alertas de manera inmediata a contactos de emergencia. Su diseño compacto y discreto asegura que siempre estará al alcance, ofreciendo una solución avanzada y confiable para la seguridad personal.
 
 ## Software empleado
   
@@ -59,13 +59,15 @@ se solicita que contenga al menos los siguientes elementos: sensores, actuadores
 ## Captura de pantalla del tablero kanban para cada uno de los sprints del proyecto
 En cada sprint se contemplan los siguientes tableros: Entrada, análisis, construcción, revisión y terminado.
 
-<!--
+#link
+https://trello.com/b/c3iqXd2O/securityfem
+
 | Sprint | Tablero Trello | 
 |----|----------|
 | 1  |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/cfefe86b-be3c-49bd-bbb4-2070cc43bea2)|
 | 2 |![image](https://github.com/HernandezChiquitoSandra/SecurityFem/assets/107783594/20d48c73-fb41-4b76-8aa5-8516002c6533)|
 | 3 ||
--->
+
 
 
 ## Circuito diseñado para el proyecto completo 
